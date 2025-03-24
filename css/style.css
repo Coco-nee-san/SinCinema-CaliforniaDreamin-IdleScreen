@@ -58,8 +58,8 @@ body {
 	-webkit-box-orient: vertical;
 	background-image: url(../images/californiadreamin_logo.png);
 	background-repeat: no-repeat;
-	background-position: bottom 0 right 0; 
-	background-size:30% auto;
+	background-position: top 0 right 0; 
+	background-size:24% auto;
 }
 .header-container {
 	position: absolute;
