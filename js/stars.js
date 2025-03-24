@@ -1,10 +1,10 @@
 particlesJS("particles-js", {
   "particles": {
     "number": {
-      "value": 17,
+      "value": 3,
       "density": {
         "enable": true,
-        "value_area": 789.15
+        "value_area": 300
       }
     },
     "color": {
@@ -111,10 +111,10 @@ particlesJS("particles-js", {
 particlesJS("particles-js-two", {
   "particles": {
     "number": {
-      "value": 17,
+      "value": 3,
       "density": {
         "enable": true,
-        "value_area": 789.15
+        "value_area": 300
       }
     },
     "color": {
@@ -221,10 +221,10 @@ particlesJS("particles-js-two", {
 particlesJS("particles-js-three", {
   "particles": {
     "number": {
-      "value": 17,
+      "value": 3,
       "density": {
         "enable": true,
-        "value_area": 789.15
+        "value_area": 300
       }
     },
     "color": {
